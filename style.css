@@ -8,3 +8,7 @@ h1{
 h1:hover{
     color: #9ab8f7;
 }
+div{
+    display: flex;
+    justify-content: center;
+}
