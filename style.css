@@ -1,0 +1,10 @@
+body{
+    background-color: #433c3c;
+}
+h1{
+    font-size: 10pt;
+    color: white;
+}
+h1:hover{
+    color: #9ab8f7;
+}
